@@ -1,2 +1,3 @@
 # Batanga-Big-Data-Test
-Batanga Big data test
+ipython notebook for batanga big data test 
+made by: Gustavo Sánchez
